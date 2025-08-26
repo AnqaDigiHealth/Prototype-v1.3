@@ -1,0 +1,6 @@
+participant_id,question_id,response,label,age,sex
+P1,Q1,I often lose focus during conversations and find it hard to sit still.,ADHD,28,male
+P2,Q2,I try to concentrate but my mind constantly jumps between things.,ADHD,34,female
+P3,Q3,I get distracted easily when reading or working.,ADHD,21,male
+P11,Q1,I can usually focus well and stay on task.,control,29,female
+P12,Q2,I have a good routine and rarely forget appointments.,control,33,male
